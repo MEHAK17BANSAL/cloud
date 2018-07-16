@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "642629465320",
+    "firebase_url": "https://cloud-1dbd2.firebaseio.com",
+    "project_id": "cloud-1dbd2",
+    "storage_bucket": "cloud-1dbd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642629465320:android:2fb1964d094455f1",
+        "android_client_info": {
+          "package_name": "com.mehak.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642629465320-55jjnv397vg8uc0b1hi0bdskrso915v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5Zw0F6l0RuakFbk3sT69BggaKgyl-Yg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
